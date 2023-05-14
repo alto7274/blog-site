@@ -3,37 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://gohugo-theme-ananke.pages.dev/</loc>
-    <lastmod>2023-05-12T10:04:01+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/tags/astrophysics/</loc>
-    <lastmod>2023-05-12T10:04:01+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/tags/fluid-mechanics/</loc>
-    <lastmod>2023-05-12T10:04:01+05:30</lastmod>
+    <lastmod>2023-05-14T10:38:48+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://gohugo-theme-ananke.pages.dev/posts/</loc>
-    <lastmod>2023-05-12T10:04:01+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/tags/</loc>
-    <lastmod>2023-05-12T10:04:01+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/posts/this-is-trial/</loc>
-    <lastmod>2023-05-12T10:04:01+05:30</lastmod>
+    <lastmod>2023-05-14T10:38:48+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://gohugo-theme-ananke.pages.dev/posts/what-is-cfd/</loc>
-    <lastmod>2023-05-12T09:56:38+05:30</lastmod>
+    <lastmod>2023-05-14T10:38:48+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -51,6 +31,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://gohugo-theme-ananke.pages.dev/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
