@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://altamashtamboli.com/</loc>
-    <lastmod>2023-05-14T10:38:48+05:30</lastmod>
+    <lastmod>2023-05-14T11:41:39+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://altamashtamboli.com/posts/</loc>
-    <lastmod>2023-05-14T10:38:48+05:30</lastmod>
+    <lastmod>2023-05-14T11:41:39+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://altamashtamboli.com/posts/what-is-rans/</loc>
+    <lastmod>2023-05-14T11:41:39+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
