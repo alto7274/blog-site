@@ -6,24 +6,14 @@
     <description>Recent content in Posts on Altamash&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 May 2023 10:04:01 +0530</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 May 2023 10:38:48 +0530</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>This Is Trial</title>
-      <link>https://gohugo-theme-ananke.pages.dev/posts/this-is-trial/</link>
-      <pubDate>Fri, 12 May 2023 10:04:01 +0530</pubDate>
-      
-      <guid>https://gohugo-theme-ananke.pages.dev/posts/this-is-trial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What Is Cfd</title>
+      <title>What Is Cfd?</title>
       <link>https://gohugo-theme-ananke.pages.dev/posts/what-is-cfd/</link>
-      <pubDate>Fri, 12 May 2023 09:56:38 +0530</pubDate>
+      <pubDate>Sun, 14 May 2023 10:38:48 +0530</pubDate>
       
       <guid>https://gohugo-theme-ananke.pages.dev/posts/what-is-cfd/</guid>
-      <description>What is C Thiis is altamash
-what is D abra ka dabra </description>
+      <description>Ever wondered whats behind the marvelous design of F1 racing cars? These cars are outstanding examples of aerodynamics.So how does an engineer experiments the fluid flow over a design without building a real model . Answer to this is CFD . CFD stands for Computational Fluid Dynamics . It uses computer simulations to visualize and analyze how fluids like air or water move and interact with objects. CFD a valuable tool that allows engineers and scientists to predict how temperature, pressure, and velocity will behave in a design before building a physical prototype.</description>
     </item>
     
   </channel>
