@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 echo "deploying script started fuck you motherfucker madarchod wooshang gang"
 
