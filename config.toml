@@ -1,5 +1,5 @@
 title = "Altamash's Blog"
-baseURL = "https://altamashtamboli.com"
+baseURL = "https://altamashtamboli.com/"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
