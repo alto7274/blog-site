@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>astrophysics on Altamash&#39;s Blog</title>
+    <link>https://gohugo-theme-ananke.pages.dev/tags/astrophysics/</link>
+    <description>Recent content in astrophysics on Altamash&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 May 2023 10:04:01 +0530</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/tags/astrophysics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This Is Trial</title>
+      <link>https://gohugo-theme-ananke.pages.dev/posts/this-is-trial/</link>
+      <pubDate>Fri, 12 May 2023 10:04:01 +0530</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/posts/this-is-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
