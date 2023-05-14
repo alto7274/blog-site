@@ -1,5 +1,5 @@
 title = "Altamash's Blog"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "https://altamashtamboli.com"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
