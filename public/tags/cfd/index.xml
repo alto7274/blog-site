@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cfd on Altamash&#39;s Blog</title>
+    <link>https://altamashtamboli.com/tags/cfd/</link>
+    <description>Recent content in cfd on Altamash&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Nov 2023 18:24:11 +0530</lastBuildDate><atom:link href="https://altamashtamboli.com/tags/cfd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigating the Whirlwind: Understanding Turbulence in Computational Fluid Dynamics (CFD)</title>
+      <link>https://altamashtamboli.com/posts/understading-turbulence-in-cfd/</link>
+      <pubDate>Sat, 18 Nov 2023 18:24:11 +0530</pubDate>
+      
+      <guid>https://altamashtamboli.com/posts/understading-turbulence-in-cfd/</guid>
+      <description>Introduction: In the realm of fluid dynamics, the term &amp;ldquo;turbulence&amp;rdquo; evokes images of chaotic motion, swirling eddies, and complex flows that challenge our understanding of fluid behavior. In the world of Computational Fluid Dynamics (CFD), turbulence is a phenomenon that plays a pivotal role in simulating the real-world complexities of fluid flow. Let&amp;rsquo;s embark on a journey to unravel the intricacies of turbulence in CFD and explore its significance in diverse applications.</description>
+    </item>
+    
+  </channel>
+</rss>

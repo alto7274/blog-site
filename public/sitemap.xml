@@ -3,16 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://altamashtamboli.com/</loc>
-    <lastmod>2023-05-15T13:32:03+05:30</lastmod>
+    <lastmod>2023-11-18T18:24:11+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://altamashtamboli.com/posts/flow-through-buildings/</loc>
-    <lastmod>2023-05-15T13:32:03+05:30</lastmod>
+    <loc>https://altamashtamboli.com/tags/cfd/</loc>
+    <lastmod>2023-11-18T18:24:11+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://altamashtamboli.com/posts/understading-turbulence-in-cfd/</loc>
+    <lastmod>2023-11-18T18:24:11+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://altamashtamboli.com/posts/</loc>
+    <lastmod>2023-11-18T18:24:11+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://altamashtamboli.com/tags/</loc>
+    <lastmod>2023-11-18T18:24:11+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://altamashtamboli.com/posts/flow-through-buildings/</loc>
     <lastmod>2023-05-15T13:32:03+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -36,10 +51,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://altamashtamboli.com/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://altamashtamboli.com/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
