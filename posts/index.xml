@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Altamash&#39;s Blog</title>
+    <link>https://altamashtamboli.com/posts/</link>
+    <description>Recent content in Posts on Altamash&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Nov 2023 18:24:11 +0530</lastBuildDate><atom:link href="https://altamashtamboli.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigating the Whirlwind: Understanding Turbulence in Computational Fluid Dynamics (CFD)</title>
+      <link>https://altamashtamboli.com/posts/understading-turbulence-in-cfd/</link>
+      <pubDate>Sat, 18 Nov 2023 18:24:11 +0530</pubDate>
+      
+      <guid>https://altamashtamboli.com/posts/understading-turbulence-in-cfd/</guid>
+      <description>Introduction: In the realm of fluid dynamics, the term &amp;ldquo;turbulence&amp;rdquo; evokes images of chaotic motion, swirling eddies, and complex flows that challenge our understanding of fluid behavior. In the world of Computational Fluid Dynamics (CFD), turbulence is a phenomenon that plays a pivotal role in simulating the real-world complexities of fluid flow. Let&amp;rsquo;s embark on a journey to unravel the intricacies of turbulence in CFD and explore its significance in diverse applications.</description>
+    </item>
+    
+    <item>
+      <title>Flow Through Buildings</title>
+      <link>https://altamashtamboli.com/posts/flow-through-buildings/</link>
+      <pubDate>Mon, 15 May 2023 13:32:03 +0530</pubDate>
+      
+      <guid>https://altamashtamboli.com/posts/flow-through-buildings/</guid>
+      <description>In the field of pedestrian wind comfort, CFD (Computational Fluid Dynamics) modeling has become an essential tool for analyzing wind flow around buildings. This method involves the use of computer algorithms to simulate the airflow around a building and to analyze its impact on the surrounding environment.
+The simulation of the wind flow between a high-rise and a low-rise building is particularly challenging because of the complex interactions between the buildings.</description>
+    </item>
+    
+    <item>
+      <title>What Is Cfd?</title>
+      <link>https://altamashtamboli.com/posts/what-is-cfd/</link>
+      <pubDate>Sun, 14 May 2023 10:38:48 +0530</pubDate>
+      
+      <guid>https://altamashtamboli.com/posts/what-is-cfd/</guid>
+      <description>Ever wondered whats behind the marvelous design of F1 racing cars? These cars are outstanding examples of aerodynamics.So how does an engineer experiments the fluid flow over a design without building a real model . Answer to this is CFD . CFD stands for Computational Fluid Dynamics . It uses computer simulations to visualize and analyze how fluids like air or water move and interact with objects. CFD a valuable tool that allows engineers and scientists to predict how temperature, pressure, and velocity will behave in a design before building a physical prototype.</description>
+    </item>
+    
+  </channel>
+</rss>
